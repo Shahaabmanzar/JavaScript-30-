@@ -1,1 +1,2 @@
-# day Three
+# day Three of javascript
+done
