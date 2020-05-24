@@ -1,2 +1,1 @@
-/*User Stories
-Javascript*/
+/*User Stories Javascript*/
