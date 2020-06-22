@@ -1,4 +1,3 @@
-<script>
         const canvas = document.querySelector('#draw');
         const ctx = canvas.getContext('2d');
         canvas.width = window.innerWidth;
@@ -52,4 +51,3 @@
         canvas.addEventListener('mousemove', draw);
         canvas.addEventListener('mouseup', () => isDrawing = false);
         canvas.addEventListener('mouseout', () => isDrawing = false);
-    </script>
